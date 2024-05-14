@@ -20,7 +20,7 @@
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            background: url(img.jpg) no-repeat;
+            background: url(../6c/img/img.jpg) no-repeat;
             background-size: cover;
             background-position: center;
         }

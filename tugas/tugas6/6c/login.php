@@ -35,7 +35,7 @@ if (isset($_POST["submit"])) {
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            background: url(img.jpg) no-repeat;
+            background: url(../6c/img/img.jpg) no-repeat;
             background-size: cover;
             background-position: center;
         }
@@ -143,7 +143,7 @@ if (isset($_POST["submit"])) {
             <h1>Login Admin</h1>
 
             <div class="gambar">
-                <img src="logo.jpg" alt="logo">
+                <img src="../6c/img/logo.jpg" alt="logo">
             </div>
 
             <?php if (isset($error)) : ?>
